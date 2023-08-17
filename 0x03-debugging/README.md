@@ -1,2 +1,1 @@
-#!/bin/bash
-Rubber duck loves the way you love your code
+0x03-debugging
